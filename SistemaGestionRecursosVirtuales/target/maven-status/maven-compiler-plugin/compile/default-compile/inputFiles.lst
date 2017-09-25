@@ -1,0 +1,11 @@
+D:\1_WS\wSpring\SistemaGestionRecursosVirtuales\src\main\java\com\grv\spring\security\config\ApplicationContextConfig.java
+D:\1_WS\wSpring\SistemaGestionRecursosVirtuales\src\main\java\com\grv\spring\security\controller\MainController.java
+D:\1_WS\wSpring\SistemaGestionRecursosVirtuales\src\main\java\com\grv\spring\security\dao\impl\UserInfoDAOImpl.java
+D:\1_WS\wSpring\SistemaGestionRecursosVirtuales\src\main\java\com\grv\spring\security\dao\UserInfoDAO.java
+D:\1_WS\wSpring\SistemaGestionRecursosVirtuales\src\main\java\com\grv\spring\security\config\SpringWebAppInitializer.java
+D:\1_WS\wSpring\SistemaGestionRecursosVirtuales\src\main\java\com\grv\spring\security\model\UserInfo.java
+D:\1_WS\wSpring\SistemaGestionRecursosVirtuales\src\main\java\com\grv\spring\security\mapper\UserInfoMapper.java
+D:\1_WS\wSpring\SistemaGestionRecursosVirtuales\src\main\java\com\grv\spring\security\authentication\MyDBAuthenticationService.java
+D:\1_WS\wSpring\SistemaGestionRecursosVirtuales\src\main\java\com\grv\spring\security\config\SpringSecurityInitializer.java
+D:\1_WS\wSpring\SistemaGestionRecursosVirtuales\src\main\java\com\grv\spring\security\config\WebSecurityConfig.java
+D:\1_WS\wSpring\SistemaGestionRecursosVirtuales\src\main\java\com\grv\spring\security\config\WebMvcConfig.java
